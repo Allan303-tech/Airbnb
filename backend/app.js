@@ -13,7 +13,7 @@ app.listen(PORT, () => {
 })
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Kobe Airbnb')
+  res.send('Welcome to  Allan\'s Airbnb')
 })
 
 
